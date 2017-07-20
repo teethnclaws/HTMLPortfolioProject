@@ -1,3 +1,8 @@
+1. Thus far I have completed tasks 1-4 on the set up.
+2. I have started on the build section of the assignment, completing tasks 5-9.
+
+
+
 # HTML Portfolio
 
 You'll create a personal web page to show off your work. We will test your HTML knowledge, and then it will be up to you to use CSS to style your own page and make it unique.
